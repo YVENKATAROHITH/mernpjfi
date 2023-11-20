@@ -1,0 +1,11 @@
+.navs{
+    background-color: rgb(193, 185, 185);
+    color:black
+}
+.nav-item{
+    color:black
+}
+.nav-item:hover{
+    background-color: rgb(245, 93, 93);
+    border-radius: 10px;
+}

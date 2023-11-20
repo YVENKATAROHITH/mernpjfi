@@ -1,0 +1,9 @@
+.signup{
+    background-size: cover;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-image: url("votingbg.jpg");
+
+}
